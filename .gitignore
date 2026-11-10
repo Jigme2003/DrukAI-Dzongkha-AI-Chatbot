@@ -1,6 +1,16 @@
+# Virtual environment
 .venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Environment variables
 .env
+
+# Downloaded AI models
 models/
+
+# Temporary files
 .DS_Store
+.streamlit/secrets.toml
